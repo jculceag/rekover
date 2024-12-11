@@ -1,0 +1,17 @@
+{
+  "name": "rekover",
+  "version": "1.0.0",
+  "description": "Projeto de estudo em Next com Vercel, usando a Rekover como referencia!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
